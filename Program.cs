@@ -12,7 +12,9 @@
 
             //Problem4.Primeno();
 
-            Console.WriteLine(Problem5.DigitsSum(12345));
+            // Console.WriteLine(Problem5.DigitsSum(12345));
+
+            Problem6.CalculateSumAndAverage(20, 21);
         }
     }
 }
