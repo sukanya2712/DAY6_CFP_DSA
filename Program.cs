@@ -10,7 +10,9 @@
 
             //Console.WriteLine(Problem3.IfNumberContains3(12345));
 
-            Problem4.Primeno();
+            //Problem4.Primeno();
+
+            Console.WriteLine(Problem5.DigitsSum(12345));
         }
     }
 }
