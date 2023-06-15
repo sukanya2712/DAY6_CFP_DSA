@@ -14,7 +14,9 @@
 
             // Console.WriteLine(Problem5.DigitsSum(12345));
 
-            Problem6.CalculateSumAndAverage(20, 21);
+            //Problem6.CalculateSumAndAverage(20, 21);
+
+            Console.WriteLine(new object[] { 8.9, "dog", 6, 'c', null, 15.99, 745, true });
         }
     }
 }
