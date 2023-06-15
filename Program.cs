@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Problem1.swap();
+            //Problem1.swap();
+
+            Problem2.Leap(2021);
         }
     }
 }
