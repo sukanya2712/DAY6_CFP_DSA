@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\DSAC\DSAC\bin\Debug\net6.0\DSAC.exe
+C:\Users\Sukanay\source\repos\DSAC\DSAC\bin\Debug\net6.0\DSAC.deps.json
+C:\Users\Sukanay\source\repos\DSAC\DSAC\bin\Debug\net6.0\DSAC.runtimeconfig.json
+C:\Users\Sukanay\source\repos\DSAC\DSAC\bin\Debug\net6.0\DSAC.dll
+C:\Users\Sukanay\source\repos\DSAC\DSAC\bin\Debug\net6.0\DSAC.pdb
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.dll
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\refint\DSAC.dll
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.pdb
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\DSAC.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\DSAC\DSAC\obj\Debug\net6.0\ref\DSAC.dll
