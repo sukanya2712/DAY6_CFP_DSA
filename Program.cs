@@ -31,7 +31,9 @@
 
             //Console.WriteLine(Problem13.FullSequenceOfLetters("ds"));
 
-            Console.Write(Problem14.StrictlyIncrease(new int[] { 2, 3, 4, 5, 6, 7, 8 }));
+            //Console.Write(Problem14.StrictlyIncrease(new int[] { 2, 3, 4, 5, 6, 7, 8 }));
+
+            Console.WriteLine(Problem15.BitsToNumber("00001011000001"));
         }
     }
 }
