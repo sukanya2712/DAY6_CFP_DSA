@@ -27,7 +27,9 @@
             // Problem11.ChirstmasTree();
 
 
-            Console.WriteLine(Problem12.ExtractString("kFp##jFoRj##pL"));
+            // Console.WriteLine(Problem12.ExtractString("kFp##jFoRj##pL"));
+
+            Console.WriteLine(Problem13.FullSequenceOfLetters("ds"));
         }
     }
 }
