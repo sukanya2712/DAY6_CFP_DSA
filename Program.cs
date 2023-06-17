@@ -20,7 +20,9 @@
 
             //Problem8.sieve();
 
-            Problem9.HourGlass();
+            //Problem9.HourGlass();
+
+            Problem10.DrawParallelogram();
         }
     }
 }
