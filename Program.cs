@@ -16,7 +16,9 @@
 
             //Problem6.CalculateSumAndAverage(20, 21);
 
-            Console.WriteLine(new object[] { 8.9, "dog", 6, 'c', null, 15.99, 745, true });
+            //Console.WriteLine(Problem7.CalculateDoubleSum(new object[] { 8.9, "dog", 6, 'c', null, 15.99, 745, true }));
+
+            Problem8.sieve();
         }
     }
 }
