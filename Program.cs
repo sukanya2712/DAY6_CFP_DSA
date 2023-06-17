@@ -29,7 +29,9 @@
 
             // Console.WriteLine(Problem12.ExtractString("kFp##jFoRj##pL"));
 
-            Console.WriteLine(Problem13.FullSequenceOfLetters("ds"));
+            //Console.WriteLine(Problem13.FullSequenceOfLetters("ds"));
+
+            Console.Write(Problem14.StrictlyIncrease(new int[] { 2, 3, 4, 5, 6, 7, 8 }));
         }
     }
 }
