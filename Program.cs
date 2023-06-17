@@ -24,7 +24,10 @@
 
             //Problem10.DrawParallelogram();
 
-            Problem11.ChirstmasTree();
+            // Problem11.ChirstmasTree();
+
+
+            Console.WriteLine(Problem12.ExtractString("kFp##jFoRj##pL"));
         }
     }
 }
