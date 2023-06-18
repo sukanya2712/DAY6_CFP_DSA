@@ -35,7 +35,9 @@
 
             //Console.WriteLine(Problem15.BitsToNumber("00001011000001"));
 
-            Problem16.Triangle();
+            //Problem16.Triangle();
+
+            Console.WriteLine(Problem17.ToThePowerOf(8, -8));
         }
     }
 }
