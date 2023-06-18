@@ -37,7 +37,9 @@
 
             //Problem16.Triangle();
 
-            Console.WriteLine(Problem17.ToThePowerOf(8, -8));
+            //Console.WriteLine(Problem17.ToThePowerOf(8, -8));
+
+            Console.WriteLine(Problem18.LettersBalance("reyjer"));           // False
         }
     }
 }
