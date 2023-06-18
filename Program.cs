@@ -43,7 +43,9 @@
 
             //Console.WriteLine(Problem19.ReplaceWords("good very", ' '));
 
-            Console.WriteLine(Problem20.digitroot(1029584739));
+            //Console.WriteLine(Problem20.digitroot(1029584739));
+
+            Console.WriteLine(Problem21.MakeUppercase("modem"));
         }
     }
 }
