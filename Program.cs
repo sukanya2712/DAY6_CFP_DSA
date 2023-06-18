@@ -75,7 +75,9 @@
 
             //Problem23.mixedstring("abc","defhhh");
 
-            Problem24.countno("hi i am sukanya naik");
+            //Problem24.countno("hi i am sukanya naik");
+
+            Problem25.RevertWordsOrder("john doe, micheal.");
 
         }
     }
