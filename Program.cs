@@ -39,7 +39,9 @@
 
             //Console.WriteLine(Problem17.ToThePowerOf(8, -8));
 
-            Console.WriteLine(Problem18.LettersBalance("reyjer"));           // False
+            //Console.WriteLine(Problem18.LettersBalance("reyjer"));           // False
+
+            Console.WriteLine(Problem19.ReplaceWords("good very", ' '));
         }
     }
 }
