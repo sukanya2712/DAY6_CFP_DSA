@@ -47,7 +47,34 @@
 
             //Console.WriteLine(Problem21.MakeUppercase("modem"));
 
-            Console.WriteLine(problem22.addch("abc", "*"));
+            //Console.WriteLine(problem22.addch("abc", "*"));
+
+            //palindrome::
+
+            /*string word = "abzvba";
+            bool ans = false;
+            for (int i=0; i<word.Length/2; i++)
+            {
+                
+                if (word[i] == word[word.Length - 1 - i])
+                {
+                    ans = false;
+                    break;
+                }
+            }
+
+            if (ans)
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {Console.WriteLine("false");
+                
+            }*/
+
+
+            Problem23.mixedstring("abc","defhhh");
+
         }
     }
 }

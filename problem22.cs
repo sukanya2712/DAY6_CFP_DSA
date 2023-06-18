@@ -9,7 +9,7 @@ namespace DSAC
     internal class problem22
     {
 
-       public static void addch(string word,string seperate)
+       public static string  addch(string word,string seperate)
         {
             string seperatedword = string.Empty;
             for(int i=0;i<word.Length; i++) 
@@ -18,12 +18,8 @@ namespace DSAC
 
             }
 
-            //return seperatedword;
-            string words = string.Empty;
-            for (int i=0;i<seperatedword.Length;i++)
-            {
-               Console.Write( words += seperatedword[i]);
-            }
+            return seperatedword;
+            
 
         }
     }
