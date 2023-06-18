@@ -73,7 +73,9 @@
             }*/
 
 
-            Problem23.mixedstring("abc","defhhh");
+            //Problem23.mixedstring("abc","defhhh");
+
+            Problem24.countno("hi i am sukanya naik");
 
         }
     }
