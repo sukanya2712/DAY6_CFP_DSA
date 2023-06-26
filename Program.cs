@@ -3,7 +3,9 @@
     internal class Program
     {
         static void Main(string[] args)
+
         {
+            //mediium and hard dsa problems
             //Problem1.swap();
 
             //Console.WriteLine(Problem2.Leap(2021));
@@ -78,6 +80,8 @@
             //Problem24.countno("hi i am sukanya naik");
 
             Problem25.RevertWordsOrder("john doe, micheal.");
+
+           // Problem27.countocc("hi i am", "hi");
 
         }
     }
